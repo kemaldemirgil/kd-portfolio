@@ -14,7 +14,7 @@ This is my first attempt on making a fully functional portfolio website. During 
 ---
 
 ### Improvements:
- >I need to fully be capable of controlling every elements position at all times. Discovering different usages of font styles will make a better display overall.
+ >I need to fully be capable of controlling every elements position at all times, also discovering different usages of font styles will make a better display overall.
 
 ---
 ### Webpage:
