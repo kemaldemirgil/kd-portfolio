@@ -1,3 +1,7 @@
+![GitHub top language](https://img.shields.io/github/languages/top/kemaldemirgil/kd-portfolio?color=purple)
+![GitHub language count](https://img.shields.io/github/languages/count/kemaldemirgil/kd-portfolio?color=yellow&logo=github)
+![GitHub repo size](https://img.shields.io/github/repo-size/kemaldemirgil/kd-portfolio?color=gre)
+
 # Kemal Demirgil Portfolio
 
 ### Description:
