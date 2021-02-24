@@ -3,6 +3,7 @@ body {
     background-color: #f6f5f5;
     margin: 0px;
     padding: 0px;
+    width: 100vw;
 }
 ul {
     list-style: none;
@@ -15,7 +16,7 @@ button:active {
 }
 /**************************Header*****************************/
 header {
-    width: 100%;
+    width: 100vw;
     height: 95vh;
     background-image: url("assets/images/mountain.png");
     background-repeat: no-repeat;
@@ -311,7 +312,6 @@ footer p:nth-child(1) {
 footer p:nth-child(2) {
     font-size: 16px;
     color: #384c64;
-    width: 600px;
     text-align: center;
 }
 .social-icons a {
@@ -440,7 +440,6 @@ footer p:nth-child(2) {
 
 }
 @media screen and (max-width: 768px) {
-    
     header {
         background-image: none;
         background-color: #384c64;
