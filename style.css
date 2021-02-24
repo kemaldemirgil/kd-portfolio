@@ -14,6 +14,7 @@ a {
 button:active {
     transform: scale(.95);
 }
+
 /**************************Header*****************************/
 header {
     width: 100vw;
@@ -252,6 +253,10 @@ nav ul li a:hover {
     color: #f6f5f5;
     box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
     transition: all ease 0.5s;
+}
+a:visited {
+    text-decoration: none;
+    /* color: black; purple link...*/
 }
 /***********************Contact-Me***************************/
 .contact-me {
