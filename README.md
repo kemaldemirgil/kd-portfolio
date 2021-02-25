@@ -5,23 +5,20 @@
 # Kemal Demirgil Portfolio
 
 ### Description:
-This is my first attempt on making a fully functional portfolio website. During the process, I've only used `HTML` and `CSS` to build it and eventually in the future, I'm planning to build a more interactive portfolio using other technologies as well.
+This is my first attempt on making a fully functional portfolio website. During the process, I've only used `HTML` and `CSS` and I've also used this oppurtunity to experiment the **display** element. Eventually, in the future, I'm planning to build a more interactive portfolio using JavaScript and JQuerry for improved UI.
 
----
 ### Issues:
-- The website isn't fully responsive to all screen sizes and devices, media queries needs adjustments.
-- The website isn't fully accessible to every user.
----
+- Too much repetitive code, I could've done it using variables and better element targeting.
+- The website width needs adjustments, after a certain screen-size, the page gets extra white space on the right.
+- Copyright text gets funky after a certain screen size.
 
 ### Improvements:
- >I need to fully be capable of controlling every elements position at all times, also discovering different usages of font styles will make a better display overall.
+ >Since this is an example portfolio, I wanted to use it for practicing and gaining some experience with CSS and eventually, I need to fully be capable of controlling every elements position at all times and also discovering different usages of font styles could make a better display overall.
 
----
 ### Webpage:
-https://kemaldemirgil.github.io/kd-portfolio/
-![screenshot-kd-portfolio](assets/images/screenshot-kd-portfolio.png)
+link: https://kemaldemirgil.github.io/kd-portfolio/
+![screenshot-kd-portfolio](assets/images/screenshot-kd-portfolio.jpg)
 
----
 ### License:
 
 Copyright © Kemal Demirgil. All rights reserved.
