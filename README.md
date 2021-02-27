@@ -13,7 +13,7 @@ This is my first attempt on making a fully functional portfolio website. During 
 - Copyright text gets funky after a certain screen size.
 
 ### Improvements:
- >Since this is an example portfolio, I wanted to use it for practicing and gaining some experience with CSS and eventually, I need to fully be capable of controlling every elements position at all times and also discovering different usages of font styles could make a better display overall.
+ >Since this is an example portfolio, I wanted to use it for practicing and gaining some experience with CSS. Eventually, I want to be fully capable of controlling every elements position at all times and I think that discovering different usages of font styles could make a better display overall.
 
 ### Webpage:
 link: https://kemaldemirgil.github.io/kd-portfolio/
