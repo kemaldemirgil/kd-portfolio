@@ -322,7 +322,7 @@ a:visited {
     justify-content: center;
     align-items: center;
 }
-.contact-me p{
+.contact-me .questions{
     color: #f6f5f5;
     font-size: 30px;
     font-family: ubuntu ;
@@ -346,6 +346,15 @@ a:visited {
     box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
     transition: all ease 0.5s;
     cursor: pointer;
+}
+.contact-me .email {
+    color: #f6f5f5;
+    font-size: 16px;
+    font-family: ubuntu ;
+    font-weight: bold;
+    text-shadow: 4px 4px 6px #303030;
+    letter-spacing: 1px;
+    padding-top: 20px;
 }
  /*****************************Footer****************************/
 footer {
@@ -529,6 +538,9 @@ footer p:nth-child(2) {
     .contact-me p{
         font-size: 18px;
     }
+    .contact-me .email {
+        padding-bottom: 30px;
+    }
     .about-container img {
         display: none;
     }
@@ -557,6 +569,9 @@ footer p:nth-child(2) {
     nav ul li a {
         padding-bottom: 20px;
         font-size: 80%;
+    }
+    .copyright {
+        padding-bottom: 10px;
     }
 }
 @media screen and (max-width: 492px) {
