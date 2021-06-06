@@ -203,15 +203,24 @@ nav ul li a:hover {
     justify-content: space-between;
 }
 .box-1 {
-    background-image: url(assets/images/Skewed-News.png);
+    background: url(assets/images/apple-touch-icon.png) 0 0 no-repeat, radial-gradient( rgba(0,0,0,0) 20%,rgba(0,0,0,1) 100%);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-size: cover;
     margin: 20px;
 }
 .box-2 {
-    background-image: url(assets/images/meteor-rush.png);
+    background: url(assets/images/Skewed-News.png) 0 0 no-repeat, radial-gradient( rgba(0,0,0,0) 20%,rgba(0,0,0,1) 100%);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-size: cover;
     margin: 20px;
 }
 .box-3 {
-    background-image: url(assets/images/w3bfac3.png);
+    background: url(assets/images/w3bfac3.png) 0 0 no-repeat, radial-gradient( rgba(0,0,0,0) 20%,rgba(0,0,0,1) 100%);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-size: cover;
     margin: 20px;
 }
 .box-2, .box-3 {
