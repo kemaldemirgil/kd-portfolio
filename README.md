@@ -5,7 +5,7 @@
 # Kemal Demirgil Portfolio
 
 ### Description:
-This is my first attempt on making a fully functional, responsive portfolio website. During the process, I've only used `HTML` and `CSS` and I've also used this opportunity to experiment the **display** element. Eventually, in the future, I'm planning to build a more interactive portfolio using JavaScript and JQuery for improved UI.
+This is my first attempt on making a fully functional, responsive portfolio website. During the process, I've only used `HTML` and `CSS` and I've also used this opportunity to experiment the **display** element. Eventually, in the future, I'm planning to build a better portfolio using `React`.
 
 ### Issues:
 - Too much repetitive code, I could've done it using variables and better element targeting.
