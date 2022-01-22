@@ -14,7 +14,6 @@ This is my first attempt on making a fully functional, responsive portfolio webs
  >Since this is an example portfolio, I wanted to use it for practicing and gaining some experience with CSS. Eventually, I want to be fully capable of controlling every elements position at all times and I think that discovering different usages of font styles could make a better display overall.
 
 ### Webpage:
-link: https://kemaldemirgil.github.io/kd-portfolio/
 ![screenshot-kd-portfolio](assets/images/screenshot-kd-portfolio.jpg)
 
 ### License:
